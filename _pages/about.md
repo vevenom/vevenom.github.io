@@ -15,4 +15,5 @@ I am a postdoctoral researcher at TU Graz. I earned my PhD with distinction unde
 ## 📜 News 
 
 [October 2023] We released our [SCANnotateDataset](https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset) that contains CAD model and pose annotations for objects in the ScanNet dataset. 
+
 [October 2023] Our [HOC-Search](https://huggingface.co/papers/2309.06107) was accepted at 3DV. Great work by Steffan Ainetter, Friedrich Fraundorfer and Vincent Lepetit
