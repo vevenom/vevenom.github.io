@@ -14,8 +14,8 @@ I am a postdoctoral researcher at TU Graz. I earned my PhD with distinction unde
 
 ## 📜 News 
 
-**[October 2023]** 📢 We released our [SCANnotateDataset](https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset) that contains CAD model and pose annotations for objects in the ScanNet dataset. 
+[October 2023] 📢 We released our [SCANnotateDataset](https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset) that contains CAD model and pose annotations for objects in the ScanNet dataset. 
 ****
-**[October 2023]** 📢 Our [HOC-Search](https://huggingface.co/papers/2309.06107) was accepted at 3DV. Special thanks to my collaborators Stefan Ainetter, Friedrich Fraundorfer and Vincent Lepetit.
+[October 2023] 📢 Our [HOC-Search](https://huggingface.co/papers/2309.06107) was accepted at 3DV. Special thanks to my collaborators Stefan Ainetter, Friedrich Fraundorfer and Vincent Lepetit.
 
-**[September 2023]** I successfully defended my PhD thesis **"Playing Proposal Selection Games in 3D Scene Understanding"**. Special thanks to my supervisors **Prof. Vincent Lepetit** (ENPC ParisTech) and **Prof. Friedrich Fraundorfer** (TU Graz) and to my external reviewer and examiner **Prof. Angela Dai** (TU Munich). I am looking forward to the next chapter but more updates on that will follow soon! 🤘
+[September 2023] I successfully defended my PhD thesis **"Playing Proposal Selection Games in 3D Scene Understanding"**. Special thanks to my supervisors **Prof. Vincent Lepetit** (ENPC ParisTech) and **Prof. Friedrich Fraundorfer** (TU Graz) and to my external reviewer and examiner **Prof. Angela Dai** (TU Munich). I am looking forward to the next chapter but more updates on that will follow soon! 🤘
