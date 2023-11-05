@@ -18,4 +18,4 @@ I am a postdoctoral researcher at TU Graz. I earned my PhD with distinction unde
 
 [October 2023] 📢 Our [HOC-Search](https://huggingface.co/papers/2309.06107) was accepted at 3DV. Special thanks to my collaborators Stefan Ainetter, Friedrich Fraundorfer and Vincent Lepetit.
 
-[September 2023] I successfully defended my PhD thesis titled "Playing Proposal Selection Games in 3D Scene Understanding". Special thanks to my supervisors Prof. Vincent Lepetit and Prof. Friedrich Fraundorfer and to my external reviewer and examiner Prof. Angela Dai. I am looking forward to the next chapter! 🤘
+[September 2023] I successfully defended my PhD thesis titled "Playing Proposal Selection Games in 3D Scene Understanding". Special thanks to my supervisors Prof. Vincent Lepetit (ENPC ParisTech) and Prof. Friedrich Fraundorfer (TU Graz) and to my external reviewer and examiner Prof. Angela Dai (TU Munich). I am looking forward to the next chapter! 🤘
