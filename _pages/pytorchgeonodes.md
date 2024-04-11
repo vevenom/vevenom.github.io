@@ -3,7 +3,7 @@ permalink: /pytorchgeonodes/
 title: "PyTorchGeoNodes"
 author_profile: true
 redirect_from: 
-  - /pytorchgeonodes/
+  - /pytorchgeonodes
   - /pytorchgeonodes.html
 ---
 
