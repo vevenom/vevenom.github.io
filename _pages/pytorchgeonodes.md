@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /pytorchgeonodes/
+permalink: /pytorchgeonodes_tmp/
 title:
+author_profile: false
 redirect_from:
   - /pytorchgeonodes
   - /pytorchgeonodes.html
