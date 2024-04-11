@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: archive
 permalink: /pytorchgeonodes/
 title:
-author_profile: false
 redirect_from:
   - /pytorchgeonodes
   - /pytorchgeonodes.html
