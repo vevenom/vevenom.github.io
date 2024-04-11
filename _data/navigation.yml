@@ -3,6 +3,10 @@ main:
   - title: "CV"
     # url: /cv/
     url: /files/Sinisa_Stekovic_CV.pdf
+
+  - title: "PyTorchGeoNodes"
+    # url: /cv/
+    url: /pytorchgeonodes/
   # - title: "Research Projects"
   #  url: "https://scholar.google.com/citations?user=T0qGNQYAAAAJ&hl=en"
 
