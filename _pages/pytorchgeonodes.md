@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /pytorchgeonodes/
 title: "PyTorchGeoNodes"
 author_profile: true
