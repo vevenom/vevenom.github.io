@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pytorchgeonodes/
 title:
 excerpt:
 author_profile: true
