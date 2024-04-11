@@ -1,11 +1,11 @@
 ---
-layout: archive
-permalink: /pytorchgeonodes_tmp/
+layout: single
+permalink: /pytorchgeonodes/
 title:
 author_profile: false
 redirect_from:
-  - /pytorchgeonodes_tmp
-  - /pytorchgeonodes_tmp.html
+  - /pytorchgeonodes
+  - /pytorchgeonodes.html
 ---
 
 **PyTorchGeoNodes**
