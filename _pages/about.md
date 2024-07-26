@@ -10,9 +10,13 @@ redirect_from:
 
 **Trying to understand the world in 3D**
 
-I am a postdoctoral researcher at Ecole des Ponts ParisTech. I earned my PhD with distinction under the expert guidance of Professors Friedrich Fraundorfer and Vincent Lepetit. My primary research interests revolve around the advancement of Deep Learning and Computer Vision methods within the field of 3D Scene Understanding. More precisely, my work delves into the exciting possibilities of creating digital twins for indoor environments, with a specific emphasis on the task of reconstructing 3D objects and structural elements in complex scenarios.
+I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD with distinction under the expert guidance of Professors Friedrich Fraundorfer and Vincent Lepetit. My primary research interests revolve around the advancement of Deep Learning and Computer Vision methods within the field of 3D Scene Understanding. More precisely, my work delves into the exciting possibilities of creating digital twins for indoor environments, with a specific emphasis on the task of reconstructing 3D objects and structural elements in complex scenarios.
 
 ## 📜 News 
+
+[July 2022] I am now in Paris 😁 :fr: 🥐 and I joined École des Ponts ParisTech. Here, I will continue working with Professor Vincent Lepetit in order to enable procedural models / shape programs / structured language for applications in 3D scene understanding. I am very grateful to everyone at TU Graz, especially Professor Friedrich Fraundorfer, for helping me grow academically!
+
+[March 2022] 🚀 Our[PyTorchGeoNodes]([https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset](https://vevenom.github.io/pytorchgeonodes/) is a differentiable module for reconstructing 3D objects from images using interpretable shape programs. I will do my best to release our implementation in August! 
 
 [October 2023] 📢 We released our [SCANnotateDataset](https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset) that contains CAD model and pose annotations for objects in the ScanNet dataset. 
 
