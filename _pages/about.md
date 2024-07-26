@@ -16,7 +16,7 @@ I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD wi
 
 [July 2022] I am now in Paris 😁 🥐☕. At École des Ponts ParisTech I will continue working with Professor Vincent Lepetit in order to enable procedural models / shape programs / structured language for applications in 3D scene understanding. I am very grateful to everyone at TU Graz, especially Professor Friedrich Fraundorfer, for helping me grow academically!
 
-[March 2022] 🚀 Our[PyTorchGeoNodes](https://vevenom.github.io/pytorchgeonodes/) is a differentiable module for reconstructing 3D objects from images using interpretable shape programs. I will do my best to release our implementation in August! 
+[March 2022] 🚀 Our [PyTorchGeoNodes](https://vevenom.github.io/pytorchgeonodes/) is a differentiable module for reconstructing 3D objects from images using interpretable shape programs. I will do my best to release our implementation in August! 
 
 [October 2023] 📢 We released our [SCANnotateDataset](https://github.com/stefan-ainetter/SCANnotateDataset#scannotatedataset) that contains CAD model and pose annotations for objects in the ScanNet dataset. 
 
