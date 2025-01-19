@@ -10,7 +10,7 @@ redirect_from:
 
 **Trying to understand the world in 3D**
 
-I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD with distinction at TU Graz under the expert guidance of Professors Friedrich Fraundorfer and Vincent Lepetit. My primary research interests revolve around the advancement of Deep Learning and Computer Vision methods within the field of 3D Scene Understanding. More precisely, my work delves into the exciting possibilities of creating digital twins for indoor environments, with a specific emphasis on the task of reconstructing 3D objects and structural elements in complex scenarios. Recently, I developed interests in applications of shape programs and shape program synthesis for applications in 3D scene understanding.   
+I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD with distinction at TU Graz under the expert guidance of Professors Friedrich Fraundorfer and Vincent Lepetit. My primary research interests revolve around the advancement of Deep Learning and Computer Vision methods within the field of 3D Scene Understanding. More precisely, my work delves into the exciting possibilities of creating digital twins for indoor environments, with a specific emphasis on the task of reconstructing 3D objects and structural elements in complex scenarios. Recently, I developed interests in shape program synthesis and their applications in 3D scene understanding.   
 
 ## 📜 News 
 
