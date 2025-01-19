@@ -14,7 +14,7 @@ I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD wi
 
 ## 📜 News 
 
-[August 2024] [Our implementation of PyTorchGeoNodes module][https://github.com/vevenom/pytorchgeonodes/tree/main] for parsing shape programs designed in Blender to differentiable PyTorch code is now public. I am aiming to release full algorithms and experiments on ScanNet in early 2025.    
+[August 2024] [Our implementation of PyTorchGeoNodes module](https://github.com/vevenom/pytorchgeonodes/tree/main) for parsing shape programs designed in Blender to differentiable PyTorch code is now public. I am aiming to release full algorithms and experiments on ScanNet in early 2025.    
 
 [July 2024] I am now in Paris and looking forward to my next research adventures—and, of course, the boulangeries 😁 🥐☕. At École des Ponts ParisTech, I will continue working with Professor Vincent Lepetit and research procedural models \ shape programs \ structured language for applications in 3D scene understanding. I am very grateful to everyone at TU Graz, especially Professor Friedrich Fraundorfer, for helping me grow academically!
 
