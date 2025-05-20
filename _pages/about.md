@@ -14,6 +14,8 @@ I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD wi
 
 ## 📜 Updates 
 
+[May 2025] I am proud and happy to be listed among outstanding reviewers at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee). 😁
+
 [May 2025] [SCANnotate++](https://stefan-ainetter.github.io/SCANnotatepp/) :sparkles: Free high-quality CAD model and pose annotations for the ScanNet++ v1 dataset for you supervised models! Verified by humans :neckbeard: but created automatically :space_invader: with our SCANnotate++ method. To be presented at CVPR 2025 Workshop -- Synthetic Data for Computer Vision.
 
 [March 2025] [PyTorchGeoNodes (PGN)](https://vevenom.github.io/pytorchgeonodes/) will be presented at CVPR2025 :boom: We also added some procedural Gaussian Splatting to PGN, check it out! 
