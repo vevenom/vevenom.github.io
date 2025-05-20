@@ -14,7 +14,7 @@ I am a postdoctoral researcher at École des Ponts ParisTech. I earned my PhD wi
 
 ## 📜 Updates 
 
-[May 2025] I am proud and happy to be listed among outstanding reviewers at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee). 😁
+[May 2025] I am honored to be listed among the outstanding reviewers for [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee). 😁
 
 [May 2025] [SCANnotate++](https://stefan-ainetter.github.io/SCANnotatepp/) :sparkles: Free high-quality CAD model and pose annotations for the ScanNet++ v1 dataset for you supervised models! Verified by humans :neckbeard: but created automatically :space_invader: with our SCANnotate++ method. To be presented at CVPR 2025 Workshop -- Synthetic Data for Computer Vision.
 
