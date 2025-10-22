@@ -10,13 +10,13 @@ redirect_from:
 
 **Trying to understand the world in 3D**
 
-I am now at Snap Inc. :ghost: Previously, I was a postdoctoral researcher at École des Ponts ParisTech and TU Graz. I earned my PhD with distinction at TU Graz under the expert guidance of Professors Vincent Lepetit and Friedrich Fraundorfer. My primary interests revolve around the advancement of Machine Learning and Computer Vision methods within the field of 3D Scene Understanding. I am excited by the possibilities of creating digital twins for indoor environments, with a specific emphasis on reconstructing 3D objects and structural elements in complex scenarios.
+I am now at Snap Inc. Previously, I was a postdoctoral researcher at École des Ponts ParisTech and TU Graz. I earned my PhD with distinction at TU Graz under the expert guidance of Professors Vincent Lepetit and Friedrich Fraundorfer. My primary interests revolve around the advancement of Machine Learning and Computer Vision methods within the field of 3D Scene Understanding. I am excited by the possibilities of creating digital twins for indoor environments, with a specific emphasis on reconstructing 3D objects and structural elements in complex scenarios.
 
 ## 📜 Updates 
 
-[October 2025] Our [GuideFlow3D](https://sayands.github.io/guideflow3d/) will be presented at NeurIPS 2025 :book: . We propose using guidance with pretrained rectified flow model for transferring appearance to 3D assets. :giraffe: :arrow_right: :chair:
+[October 2025] Our [GuideFlow3D](https://sayands.github.io/guideflow3d/) will be presented at NeurIPS 2025 :book: . We propose using guidance with pretrained rectified flow model for transferring appearance to 3D assets. 
 
-[July 2025] I am now at Snap Inc. pushing limits of augmented reality with Spectacles :sunglasses:
+[July 2025] I am now at Snap Inc., pushing limits of augmented reality with Spectacles :sunglasses:
 
 [May 2025] I am honored to be listed among the outstanding reviewers for [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee). 😁
 
