@@ -14,7 +14,7 @@ I am now at Snap Inc. Previously, I was a postdoctoral researcher at École des 
 
 ## 📜 Updates 
 
-[October 2025] Our [GuideFlow3D](https://sayands.github.io/guideflow3d/) will be presented at NeurIPS 2025 :book: . We propose using guidance with pretrained rectified flow model for transferring appearance to 3D assets. 
+[October 2025] Our [GuideFlow3D](https://sayands.github.io/guideflow3d/) will be presented at NeurIPS 2025 :book: . We propose guiding pretrained rectified flow model  for transferring appearance to 3D assets. 
 
 [July 2025] I am now at Snap Inc., pushing limits of augmented reality with Spectacles :sunglasses:
 
